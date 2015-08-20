@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PingTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pt_appName">Ping Tracker</string>
+    <string name="bt_gPlusCon">Connect to G+</string>
+    <string name="bt_track">Configure Tracker</string>
+</resources>
